@@ -1,3 +1,3 @@
-Project: Bash, Make, Git, and GitHub
--rw-r--r-- 1 acm acm 213 Feb 14 19:37 makefile
+#project
+-rw-r--r-- 1 acm acm 185 Feb 14 19:49 makefile
 25
